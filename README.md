@@ -17,7 +17,10 @@
 
 
 ## 🧠 My Focus Areas
-- |Web Development|  |Android Development|  |DevOps|  |Cloud Fundamentals|
+-  |Web Development|
+-  |Android Development|
+-  |DevOps|
+-  |Cloud Fundamentals|
 
 
 ## 📊 GitHub Stats & Trophies
