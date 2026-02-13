@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Backend-Focused-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-orange?style=flat-square" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=kunaljambhale06">
     <img src="https://komarev.com/ghpvc/?username=kunaljambhale06&label=Profile%20views&color=00FFFF&style=flat-square" alt="kunaljambhale06's profile views" />
   </a>
