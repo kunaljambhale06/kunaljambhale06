@@ -84,7 +84,7 @@ Computer Engineering student at **Sinhagad Institute of Technology** who enjoys 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kunaljambhale06&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kunaljambhale06&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=kunaljambhale06&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="100%" />
@@ -95,7 +95,7 @@ Computer Engineering student at **Sinhagad Institute of Technology** who enjoys 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljambhale06&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kunaljambhale06&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" alt="Top Languages" width="50%" />
 </p>
 
 ---
@@ -120,15 +120,15 @@ Computer Engineering student at **Sinhagad Institute of Technology** who enjoys 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-jambhale-518550285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:jambhalekunal06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://kunaljambhale06.github.io/Kunal-s-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Portfolio" width="40" height="40" style="margin: 0 8px;"/>
   </a>
 </p>
 
