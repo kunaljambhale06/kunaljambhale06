@@ -81,29 +81,8 @@ Computer Engineering student at **Sinhagad Institute of Technology** who enjoys 
 
 ## 📊 GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kunaljambhale06&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=kunaljambhale06&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kunaljambhale06&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" alt="Top Languages" width="50%" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunaljambhale06&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=kunaljambhale06&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="95%" />
 </p>
 
 ---
