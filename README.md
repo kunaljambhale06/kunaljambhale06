@@ -62,13 +62,13 @@ Computer Engineering student at **Sinhagad Institute of Technology** who enjoys 
 **Databases**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase&theme=dark" />
 </p>
 
 **DevOps & Cloud**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,githubactions&theme=dark" />
 </p>
 
 **Tools**
