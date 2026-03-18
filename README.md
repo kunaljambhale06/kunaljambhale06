@@ -1,18 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kunal%20Jambhale&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?<div align="center">
-
-```
-██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗
-██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██║
-█████╔╝ ██║   ██║██╔██╗ ██║███████║██║
-██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║██║
-██║  ██╗╚██████╔╝██║ ╚████║██║  ██║███████╗
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-```
-
-### `> Computer Engineering Student`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+%7C+DevOps+%7C+Cloud+Enthusiast;Building+things+that+actually+work.;Focused+on+progress%2C+not+perfection.)](https://git.io/typing-svg)
 
